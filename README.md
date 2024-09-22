@@ -18,20 +18,14 @@ Welcome to the Cross-Chain NFT Marketplace! This platform enables users to mint,
 ## How to Use?
 Config your .env file with 
 
-DB_URL=
-PORT=
-JWT_SECRET=
-COOKIE_SECRET=
-EMAIL_HOST=
-EMAIL_PORT=
-EMAIL_USERNAME=
-EMAIL_PASSWORD=
+- **DB_URL, PORT, JWT_SECRET, COOKIE_SECRET, EMAIL_HOST,EMAIL_PORT, EMAIL_USERNAME, EMAIL_PASSWORD**
 
 
 Lastly, run either 
 
-## yarn install or npm install, and then (yarn run start:dev) or (npm run start:dev) for Dev mode,
-## For production- Use start:prod   
+ - **yarn install or npm install, and then (yarn run start:dev)or (npm run start:dev) for Dev mode**
+
+- **For production- Use start:prod**   
 
 ## Get Involved
 
